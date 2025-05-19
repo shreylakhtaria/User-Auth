@@ -15,7 +15,7 @@ import { join } from 'path';
       playground: true,
     }),
     MongooseModule.forRoot(
-      '',
+      ' ',
     ),
     UserModule,
   ],
