@@ -1,6 +1,4 @@
 # User-Auth
-A small Full-stack Auth System Made using latest Framework
-
 ## What is this project?
 
 User-Auth is a full-stack authentication system that allows users to register, log in, and View their profiles. It demonstrates secure authentication practices using modern web technologies.
