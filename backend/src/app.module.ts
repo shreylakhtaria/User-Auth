@@ -15,7 +15,7 @@ import { join } from 'path';
       playground: true,
     }),
     MongooseModule.forRoot(
-      'mongodb+srv://shreylakhatariacode:pSjpnYP0SIejA67U@cluster0.ikzkwv8.mongodb.net/user-auth',
+      '',
     ),
     UserModule,
   ],
